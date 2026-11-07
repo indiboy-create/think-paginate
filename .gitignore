@@ -1,0 +1,5 @@
+/vendor/
+/.tmp/
+/.tmp80/
+/.phpunit.result.cache
+/composer.lock
